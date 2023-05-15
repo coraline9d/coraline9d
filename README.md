@@ -1,4 +1,4 @@
-## ✨Coraline, student in Full Stack Web Development.✨
+## ✨ Coraline, student in Full Stack Web Development 
 
 👩🏼‍💻 Here, you will find all the projects I do to increase my knowledge in the field 
 
