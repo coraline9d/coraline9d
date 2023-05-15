@@ -1,8 +1,8 @@
-✨My name is Coraline, I’m a student in Full Stack Web Development.✨
+## ✨Coraline, student in Full Stack Web Development.✨
 
-👉 Here, you will find all the projects I do to increase my knowledge in the field 
+👩🏼‍💻 Here, you will find all the projects I do to increase my knowledge in the field 
 
-👉 Soon, I aim to discover React and React Native
+📌 Soon, I aim to discover React and React Native
 
 ## 🛠 Skills
 <div dir="auto">
