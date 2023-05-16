@@ -2,7 +2,7 @@
 
 👩🏼‍💻 Here, you will find all the projects I do to increase my knowledge in the field 
 
-📌 Soon, I aim to discover React and React Native
+📌 Soon, I aim to deepen Symfony
 
 ## 🛠 Skills
 <div dir="auto">
