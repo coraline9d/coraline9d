@@ -2,7 +2,7 @@
 
 👩🏼‍💻 Here, you will find all the projects I do to increase my knowledge in the field 
 
-📌 Soon, I aim to deepen Symfony
+ 📌 Soon, I aim to deepen Wordpress
 
 ## 🛠 Skills
 <div dir="auto">
@@ -22,4 +22,5 @@
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coraline-day-b99141242/)
-[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white&color=red)](mailto:devwithcoraline@gmail.com)
+[![hostinger](https://img.shields.io/badge/hostinger-contact@cdwebart.fr)](mailto:contact@cdwebart.fr)
+
