@@ -22,7 +22,7 @@
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coraline-day-b99141242/)
-[![hostinger](https://img.shields.io/badge/hostinger-CD_Web_Art-purple?style=for-the-badge&logo=hostinger&logoColor=white)](mailto:contact@cdwebart.fr)
+[![hostinger](https://img.shields.io/badge/hostinger-Me_Contacter-red?style=for-the-badge&logo=hostinger&logoColor=red)](mailto:contact@cdwebart.fr)
 
 
 
